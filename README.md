@@ -1,2 +1,2 @@
-# DRL
-Deep Reinforcement Learning for Human Robot Interaction (DRL-HRI)
+# C-DRL
+Collaborative Task Learning with Multiple Robots using Deep Reinforcement Learning (C-DRL)
